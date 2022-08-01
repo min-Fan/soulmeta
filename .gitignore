@@ -1,0 +1,16 @@
+node_modules
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+*/artifacts
+.idea
+package-lock.json
+.secret_prod
+abi
+
+mig_smb_data
+fix_wallet_data
